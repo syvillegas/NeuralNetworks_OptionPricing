@@ -14,3 +14,5 @@ The structure of this repository is the following:
 
 - training_neural_networks: folder contianing the notebooks where the networks were trained. Ordered per training phase: 1 for RandomSearch, 2 for GridSearch and 3 for the last fit with 200 epochs.
 
+- Cruz_Sanchez_Villegas: final report of the project.
+
