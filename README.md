@@ -4,4 +4,13 @@ In this project we aim to build an ANN from scratch to value financial options w
 
 The structure of this repository is the following:
 
+- final_neural_network: folder containing the final neural networks, fully trained and optimized, for the Original and Greeks models.
+    
+- images: folder containing the final model schemes (vertical and horizontal), for both Original and Greeks models.
+
+- simulation: folder containing the notebooks regarding the simulation of financial data.
+        - DATA_1_simulation: first simulation.
+        - DATA_2_final: Greeks added.
+
+- training_NN: folder contianing the notebooks where the networks were trained. Ordered per training phase: 1 for RandomSearch, 2 for GridSearch and 3 for the last fit with 200 epochs.
 
