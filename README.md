@@ -9,8 +9,8 @@ The structure of this repository is the following:
 - images: folder containing the final model schemes (vertical and horizontal), for both Original and Greeks models.
 
 - data_simulation: folder containing the notebooks regarding the simulation of financial data.
-        - DATA_1_simulation: first simulation.
-        - DATA_2_final: Greeks added.
+    - DATA_1_simulation: first simulation.
+    - DATA_2_final: Greeks added.
 
 - training_neural_networks: folder contianing the notebooks where the networks were trained. Ordered per training phase: 1 for RandomSearch, 2 for GridSearch and 3 for the last fit with 200 epochs.
 
